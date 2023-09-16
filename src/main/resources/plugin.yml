@@ -1,0 +1,4 @@
+name: ScreenShare Spigot
+version: '${project.version}'
+main: me.wiceh.screensharespigot.ScreenShareSpigot
+authors: [ wIceh ]
